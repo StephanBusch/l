@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: stephanbusch.github.io
+Token: 3249e016703c01c05f73384a49f6ab496f37b92a1b2802b0328478ca62d21b58
